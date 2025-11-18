@@ -1,0 +1,14 @@
+{
+  "video_id": "3",
+  "video_path": "data/combos/3.mov",
+  "timestamp": "2025-11-12T21:51:35.099118",
+  "predicted_strikes": null,
+  "true_strikes": [
+    "jab",
+    "cross",
+    "lead_hook",
+    "lead_hook"
+  ],
+  "correct": false,
+  "full_response": "Error: expected string or bytes-like object, got 'list'"
+}

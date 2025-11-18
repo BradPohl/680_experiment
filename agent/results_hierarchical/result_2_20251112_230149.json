@@ -1,0 +1,21 @@
+{
+  "video_id": "2",
+  "video_path": "data/combos/2.mov",
+  "timestamp": "2025-11-12T23:01:49.226731",
+  "coarse_categories": [
+    "punch",
+    "punch"
+  ],
+  "predicted_strikes": [
+    "jab",
+    "cross"
+  ],
+  "true_strikes": [
+    "jab",
+    "jab",
+    "cross",
+    "roundhouse"
+  ],
+  "correct": false,
+  "full_response": "Coarse categories: ['punch', 'punch']\nFine strikes: ['jab', 'cross']\n\nFinal classification: [\"jab\", \"cross\"]"
+}

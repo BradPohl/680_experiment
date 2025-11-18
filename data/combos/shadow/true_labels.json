@@ -1,0 +1,114 @@
+{
+  "1": [
+    "jab",
+    "cross",
+    "lead_hook",
+    "roundhouse"
+  ],
+  "2": [
+    "jab",
+    "cross",
+    "lowkick"
+  ],
+  "3": [
+    "lead_uppercut",
+    "cross",
+    "rear_elbow",
+    "knee"
+  ],
+  "4": [
+    "jab",
+    "cross",
+    "lead_hook",
+    "lead_hook",
+    "roundhouse"
+  ],
+  "5": [
+    "jab",
+    "cross",
+    "lead_hook",
+    "lead_hook"
+  ],
+  "6": [
+    "jab",
+    "cross",
+    "switch_kick"
+  ],
+  "7": [
+    "lead_uppercut",
+    "cross",
+    "lead_hook"
+  ],
+  "8": [
+    "lead_uppercut",
+    "cross",
+    "lead_hook",
+    "roundhouse"
+  ],
+  "9": [
+    "jab",
+    "cross",
+    "knee"
+  ],
+  "10": [
+    "jab",
+    "cross",
+    "switch_knee"
+  ],
+  "11": [
+    "jab",
+    "jab",
+    "cross",
+    "lead_hook"
+  ],
+  "12": [
+    "jab",
+    "jab",
+    "roundhouse"
+  ],
+  "13": [
+    "jab",
+    "jab",
+    "rear_elbow",
+    "knee"
+  ],
+  "14": [
+    "lead_uppercut",
+    "rear_elbow",
+    "knee"
+  ],
+  "15": [
+    "jab",
+    "lead_uppercut",
+    "lead_elbow",
+    "switch_knee"
+  ],
+  "16": [
+    "lead_hook",
+    "cross",
+    "lead_hook"
+  ],
+  "17": [
+    "jab",
+    "lead_hook",
+    "rear_hook"
+  ],
+  "18": [
+    "teep",
+    "jab",
+    "cross",
+    "lead_hook"
+  ],
+  "19": [
+    "jab",
+    "cross",
+    "teep",
+    "roundhouse"
+  ],
+  "20": [
+    "lead_elbow",
+    "rear_elbow",
+    "knee",
+    "switch_kick"
+  ]
+}

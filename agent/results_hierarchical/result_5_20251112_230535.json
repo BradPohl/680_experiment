@@ -1,0 +1,20 @@
+{
+  "video_id": "5",
+  "video_path": "data/combos/5.mov",
+  "timestamp": "2025-11-12T23:05:35.923502",
+  "coarse_categories": [
+    "punch",
+    "punch"
+  ],
+  "predicted_strikes": [
+    "punch",
+    "punch"
+  ],
+  "true_strikes": [
+    "lead_uppercut",
+    "cross",
+    "lead_hook"
+  ],
+  "correct": false,
+  "full_response": "Coarse categories: ['punch', 'punch']\nFine strikes: ['punch', 'punch']\n\nFinal classification: [\"punch\", \"punch\"]"
+}

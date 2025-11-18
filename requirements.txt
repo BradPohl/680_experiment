@@ -1,0 +1,13 @@
+dspy-ai
+google-generativeai
+python-dotenv
+jupyter
+ipykernel
+json5
+mediapipe
+opencv-python
+langchain>=1.0.0
+langchain-google-genai
+langgraph
+numpy
+

@@ -1,0 +1,15 @@
+{
+  "video_id": "1",
+  "video_path": "data/combos/1.mov",
+  "timestamp": "2025-11-12T21:49:21.553556",
+  "predicted_strikes": [
+    "teep"
+  ],
+  "true_strikes": [
+    "jab",
+    "cross",
+    "roundhouse"
+  ],
+  "correct": false,
+  "full_response": "The video shows a single \"teep\" strike. The initial analysis by `analyze_video` correctly identified this. The pose data confirms the movement patterns consistent with a teep, with the right leg extending forward for the push.\n\nFinal Answer: [\"teep\"]"
+}

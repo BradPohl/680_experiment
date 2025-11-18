@@ -1,0 +1,18 @@
+{
+  "video_id": "1",
+  "video_path": "data/combos/1.mov",
+  "timestamp": "2025-11-12T23:00:39.762218",
+  "coarse_categories": [
+    "kick"
+  ],
+  "predicted_strikes": [
+    "roundhouse"
+  ],
+  "true_strikes": [
+    "jab",
+    "cross",
+    "roundhouse"
+  ],
+  "correct": false,
+  "full_response": "Coarse categories: ['kick']\nFine strikes: ['roundhouse']\n\nFinal classification: [\"roundhouse\"]"
+}
