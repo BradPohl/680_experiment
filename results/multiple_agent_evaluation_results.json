@@ -1,0 +1,994 @@
+{
+  "metrics": {
+    "exact_match_accuracy": 0.0,
+    "average_sequence_accuracy": 0.12232160200910201,
+    "average_combo_count_accuracy": 0.6692460317460318,
+    "average_combo_boundary_accuracy": 0.48174603174603176,
+    "average_combo_wise_accuracy": 0.03263888888888889,
+    "total_examples": 24,
+    "exact_matches": 0
+  },
+  "results": [
+    {
+      "video_path": "data\\multiple_combos\\shadow\\1.mov",
+      "true_combos": [
+        [
+          "jab"
+        ],
+        [
+          "jab",
+          "cross",
+          "lead_hook"
+        ],
+        [
+          "jab",
+          "cross",
+          "lead_hook",
+          "lead_hook"
+        ],
+        [
+          "jab",
+          "lead_uppercut",
+          "cross",
+          "lead_hook"
+        ]
+      ],
+      "predicted_combos": [
+        [
+          "jab"
+        ],
+        [
+          "jab"
+        ],
+        [
+          "cross"
+        ],
+        [
+          "jab"
+        ],
+        [
+          "cross"
+        ]
+      ],
+      "exact_match": false,
+      "combo_count_accuracy": 0.8,
+      "combo_boundary_accuracy": 0.6666666666666665,
+      "sequence_accuracy": 0.25,
+      "combo_wise_accuracy": 0.25
+    },
+    {
+      "video_path": "data\\multiple_combos\\shadow\\2.mov",
+      "true_combos": [
+        [
+          "cross",
+          "lead_hook",
+          "cross"
+        ],
+        [
+          "jab",
+          "cross",
+          "lead_uppercut",
+          "roundhouse"
+        ],
+        [
+          "jab",
+          "lead_elbow",
+          "roundhouse"
+        ]
+      ],
+      "predicted_combos": [
+        [
+          "jab",
+          "cross",
+          "roundhouse"
+        ],
+        [
+          "jab",
+          "cross",
+          "teep"
+        ]
+      ],
+      "exact_match": false,
+      "combo_count_accuracy": 0.6666666666666667,
+      "combo_boundary_accuracy": 0.8,
+      "sequence_accuracy": 0.2,
+      "combo_wise_accuracy": 0.0
+    },
+    {
+      "video_path": "data\\multiple_combos\\shadow\\4.mov",
+      "true_combos": [
+        [
+          "teep",
+          "roundhouse"
+        ],
+        [
+          "lead_uppercut",
+          "cross",
+          "lead_hook",
+          "roundhouse"
+        ],
+        [
+          "jab",
+          "cross",
+          "teep",
+          "elbow"
+        ]
+      ],
+      "predicted_combos": [
+        [
+          "teep"
+        ],
+        [
+          "roundhouse"
+        ],
+        [
+          "jab",
+          "cross",
+          "roundhouse"
+        ]
+      ],
+      "exact_match": false,
+      "combo_count_accuracy": 1.0,
+      "combo_boundary_accuracy": 0.6666666666666666,
+      "sequence_accuracy": 0.3,
+      "combo_wise_accuracy": 0.0
+    },
+    {
+      "video_path": "data\\multiple_combos\\shadow\\5.mov",
+      "true_combos": [
+        [
+          "jab",
+          "cross",
+          "roundhouse"
+        ],
+        [
+          "jab",
+          "cross",
+          "rear_elbow"
+        ],
+        [
+          "lead_roundhouse"
+        ]
+      ],
+      "predicted_combos": [
+        [
+          "jab",
+          "teep"
+        ],
+        [
+          "jab",
+          "cross"
+        ],
+        [
+          "jab"
+        ],
+        [
+          "teep"
+        ]
+      ],
+      "exact_match": false,
+      "combo_count_accuracy": 0.75,
+      "combo_boundary_accuracy": 0.28571428571428575,
+      "sequence_accuracy": 0.14285714285714285,
+      "combo_wise_accuracy": 0.0
+    },
+    {
+      "video_path": "data\\multiple_combos\\shadow\\7.mov",
+      "true_combos": [
+        [
+          "jab",
+          "jab",
+          "cross",
+          "lead_hook",
+          "rear_elbow"
+        ],
+        [
+          "lead_uppercut",
+          "cross",
+          "rear_elbow"
+        ],
+        [
+          "jab",
+          "rear_uppercut",
+          "rear_elbow"
+        ]
+      ],
+      "predicted_combos": [
+        [
+          "jab"
+        ],
+        [
+          "cross"
+        ]
+      ],
+      "exact_match": false,
+      "combo_count_accuracy": 0.6666666666666667,
+      "combo_boundary_accuracy": 0.4,
+      "sequence_accuracy": 0.09090909090909091,
+      "combo_wise_accuracy": 0.0
+    },
+    {
+      "video_path": "data\\multiple_combos\\shadow\\9.mov",
+      "true_combos": [
+        [
+          "jab",
+          "cross",
+          "roundhouse"
+        ],
+        [
+          "lead_uppercut",
+          "cross",
+          "lead_elbow",
+          "rear_elbow"
+        ],
+        [
+          "lead_uppercut",
+          "rear_elbow",
+          "lead_elbow"
+        ],
+        [
+          "jab",
+          "lead_uppercut",
+          "rear_elbow"
+        ]
+      ],
+      "predicted_combos": [],
+      "exact_match": false,
+      "combo_count_accuracy": 0.0,
+      "combo_boundary_accuracy": 0.0,
+      "sequence_accuracy": 0.0,
+      "combo_wise_accuracy": 0.0
+    },
+    {
+      "video_path": "data\\multiple_combos\\shadow\\10.mov",
+      "true_combos": [
+        [
+          "lead_uppercut",
+          "cross",
+          "rear_elbow",
+          "knee"
+        ],
+        [
+          "jab",
+          "lead_uppercut",
+          "cross",
+          "lead_hook",
+          "rear_elbow"
+        ],
+        [
+          "jab",
+          "cross",
+          "switch_knee"
+        ],
+        [
+          "jab",
+          "lead_elbow",
+          "lead_uppercut",
+          "rear_elbow"
+        ]
+      ],
+      "predicted_combos": [
+        [
+          "teep"
+        ],
+        [
+          "jab",
+          "cross",
+          "roundhouse"
+        ],
+        [
+          "teep"
+        ],
+        [
+          "jab",
+          "cross",
+          "roundhouse"
+        ]
+      ],
+      "exact_match": false,
+      "combo_count_accuracy": 1.0,
+      "combo_boundary_accuracy": 0.5,
+      "sequence_accuracy": 0.0625,
+      "combo_wise_accuracy": 0.0
+    },
+    {
+      "video_path": "data\\multiple_combos\\shadow\\11.mov",
+      "true_combos": [
+        [
+          "jab",
+          "rear_elbow",
+          "lead_elbow"
+        ],
+        [
+          "jab",
+          "lead_uppercut",
+          "rear_elbow",
+          "lead_elbow"
+        ],
+        [
+          "jab",
+          "cross",
+          "switch_knee",
+          "roundhouse"
+        ]
+      ],
+      "predicted_combos": [
+        [
+          "cross"
+        ]
+      ],
+      "exact_match": false,
+      "combo_count_accuracy": 0.33333333333333337,
+      "combo_boundary_accuracy": 0.5,
+      "sequence_accuracy": 0.0,
+      "combo_wise_accuracy": 0.0
+    },
+    {
+      "video_path": "data\\multiple_combos\\shadow\\12.mov",
+      "true_combos": [
+        [
+          "jab",
+          "cross",
+          "teep",
+          "roundhouse"
+        ],
+        [
+          "lead_uppercut",
+          "cross",
+          "lead_hook",
+          "rear_elbow"
+        ],
+        [
+          "switch_knee",
+          "roundhouse"
+        ]
+      ],
+      "predicted_combos": [
+        [
+          "roundhouse"
+        ],
+        [
+          "jab",
+          "cross"
+        ],
+        [
+          "roundhouse"
+        ]
+      ],
+      "exact_match": false,
+      "combo_count_accuracy": 1.0,
+      "combo_boundary_accuracy": 0.3333333333333333,
+      "sequence_accuracy": 0.1,
+      "combo_wise_accuracy": 0.0
+    },
+    {
+      "video_path": "data\\multiple_combos\\heavy_bag\\1.mov",
+      "true_combos": [
+        [
+          "teep",
+          "roundhouse"
+        ],
+        [
+          "jab",
+          "cross",
+          "lead_hook"
+        ]
+      ],
+      "predicted_combos": [
+        [
+          "jab",
+          "teep"
+        ],
+        [
+          "cross"
+        ],
+        [
+          "lead_hook"
+        ]
+      ],
+      "exact_match": false,
+      "combo_count_accuracy": 0.6666666666666667,
+      "combo_boundary_accuracy": 0.8,
+      "sequence_accuracy": 0.0,
+      "combo_wise_accuracy": 0.0
+    },
+    {
+      "video_path": "data\\multiple_combos\\heavy_bag\\2.mov",
+      "true_combos": [
+        [
+          "jab",
+          "cross",
+          "lead_hook"
+        ],
+        [
+          "jab",
+          "cross",
+          "lead_hook",
+          "cross"
+        ],
+        [
+          "teep",
+          "roundhouse"
+        ]
+      ],
+      "predicted_combos": [
+        [
+          "jab",
+          "cross",
+          "lead_hook",
+          "rear_hook"
+        ],
+        [
+          "teep"
+        ],
+        [
+          "roundhouse"
+        ]
+      ],
+      "exact_match": false,
+      "combo_count_accuracy": 1.0,
+      "combo_boundary_accuracy": 0.3333333333333333,
+      "sequence_accuracy": 0.3333333333333333,
+      "combo_wise_accuracy": 0.0
+    },
+    {
+      "video_path": "data\\multiple_combos\\heavy_bag\\3.mov",
+      "true_combos": [
+        [
+          "jab",
+          "jab",
+          "cross",
+          "spinning_elbow"
+        ],
+        [
+          "jab",
+          "jab",
+          "cross",
+          "lead_hook"
+        ],
+        [
+          "jab",
+          "cross",
+          "low_kick",
+          "roundhouse"
+        ]
+      ],
+      "predicted_combos": [
+        [
+          "jab",
+          "cross"
+        ]
+      ],
+      "exact_match": false,
+      "combo_count_accuracy": 0.33333333333333337,
+      "combo_boundary_accuracy": 0.5,
+      "sequence_accuracy": 0.08333333333333333,
+      "combo_wise_accuracy": 0.0
+    },
+    {
+      "video_path": "data\\multiple_combos\\heavy_bag\\4.mov",
+      "true_combos": [
+        [
+          "jab",
+          "jab",
+          "cross",
+          "lead_hook"
+        ],
+        [
+          "jab",
+          "lead_elbow",
+          "rear_elbow"
+        ],
+        [
+          "roundhouse"
+        ]
+      ],
+      "predicted_combos": [
+        [
+          "jab"
+        ]
+      ],
+      "exact_match": false,
+      "combo_count_accuracy": 0.33333333333333337,
+      "combo_boundary_accuracy": 0.5,
+      "sequence_accuracy": 0.125,
+      "combo_wise_accuracy": 0.0
+    },
+    {
+      "video_path": "data\\multiple_combos\\heavy_bag\\5.mov",
+      "true_combos": [
+        [
+          "jab",
+          "jab",
+          "cross",
+          "lead_hook"
+        ],
+        [
+          "jab",
+          "cross"
+        ]
+      ],
+      "predicted_combos": [
+        [
+          "jab",
+          "cross"
+        ],
+        [
+          "lead_hook",
+          "rear_hook"
+        ]
+      ],
+      "exact_match": false,
+      "combo_count_accuracy": 1.0,
+      "combo_boundary_accuracy": 0.5,
+      "sequence_accuracy": 0.16666666666666666,
+      "combo_wise_accuracy": 0.0
+    },
+    {
+      "video_path": "data\\multiple_combos\\heavy_bag\\7.mov",
+      "true_combos": [
+        [
+          "jab",
+          "cross"
+        ],
+        [
+          "teep",
+          "lead_roundhouse",
+          "jab",
+          "cross"
+        ]
+      ],
+      "predicted_combos": [
+        [
+          "cross"
+        ],
+        [
+          "jab"
+        ],
+        [
+          "roundhouse"
+        ]
+      ],
+      "exact_match": false,
+      "combo_count_accuracy": 0.6666666666666667,
+      "combo_boundary_accuracy": 0.8,
+      "sequence_accuracy": 0.0,
+      "combo_wise_accuracy": 0.0
+    },
+    {
+      "video_path": "data\\multiple_combos\\heavy_bag\\9.mov",
+      "true_combos": [
+        [
+          "teep",
+          "roundhouse"
+        ],
+        [
+          "jab",
+          "cross",
+          "lead_hook",
+          "lead_hook"
+        ],
+        [
+          "jab"
+        ],
+        [
+          "jab",
+          "cross",
+          "lead_hook",
+          "lead_hook"
+        ]
+      ],
+      "predicted_combos": [
+        [
+          "teep"
+        ],
+        [
+          "jab"
+        ],
+        [
+          "cross"
+        ]
+      ],
+      "exact_match": false,
+      "combo_count_accuracy": 0.75,
+      "combo_boundary_accuracy": 0.5714285714285715,
+      "sequence_accuracy": 0.09090909090909091,
+      "combo_wise_accuracy": 0.0
+    },
+    {
+      "video_path": "data\\multiple_combos\\heavy_bag\\10.mov",
+      "true_combos": [
+        [
+          "jab"
+        ],
+        [
+          "jab",
+          "cross",
+          "lead_hook",
+          "rear_hook"
+        ],
+        [
+          "jab",
+          "cross",
+          "low_kick",
+          "roundhouse"
+        ],
+        [
+          "spinning_elbow"
+        ],
+        [
+          "jab",
+          "cross",
+          "spinning_elbow"
+        ]
+      ],
+      "predicted_combos": [
+        [
+          "jab"
+        ],
+        [
+          "cross"
+        ],
+        [
+          "roundhouse"
+        ],
+        [
+          "roundhouse"
+        ],
+        [
+          "cross"
+        ]
+      ],
+      "exact_match": false,
+      "combo_count_accuracy": 1.0,
+      "combo_boundary_accuracy": 0.4000000000000001,
+      "sequence_accuracy": 0.07692307692307693,
+      "combo_wise_accuracy": 0.2
+    },
+    {
+      "video_path": "data\\multiple_combos\\heavy_bag\\11.mov",
+      "true_combos": [
+        [
+          "jab",
+          "cross"
+        ],
+        [
+          "jab",
+          "lead_elbow",
+          "rear_elbow"
+        ],
+        [
+          "jab",
+          "lead_elbow",
+          "lead_uppercut",
+          "cross"
+        ],
+        [
+          "teep",
+          "roundhouse",
+          "lead_hook",
+          "cross"
+        ]
+      ],
+      "predicted_combos": [
+        [
+          "jab"
+        ]
+      ],
+      "exact_match": false,
+      "combo_count_accuracy": 0.25,
+      "combo_boundary_accuracy": 0.4,
+      "sequence_accuracy": 0.07692307692307693,
+      "combo_wise_accuracy": 0.0
+    },
+    {
+      "video_path": "data\\multiple_combos\\heavy_bag\\13.mov",
+      "true_combos": [
+        [
+          "jab",
+          "teep",
+          "roundhouse"
+        ],
+        [
+          "lead_hook",
+          "lead_hook",
+          "cross",
+          "low_kick"
+        ]
+      ],
+      "predicted_combos": [
+        [
+          "roundhouse"
+        ],
+        [
+          "jab",
+          "cross"
+        ]
+      ],
+      "exact_match": false,
+      "combo_count_accuracy": 1.0,
+      "combo_boundary_accuracy": 0.5,
+      "sequence_accuracy": 0.0,
+      "combo_wise_accuracy": 0.0
+    },
+    {
+      "video_path": "data\\multiple_combos\\heavy_bag\\14.mov",
+      "true_combos": [
+        [
+          "jab",
+          "cross",
+          "lead_hook",
+          "rear_elbow"
+        ],
+        [
+          "jab",
+          "lead_elbow",
+          "rear_elbow",
+          "lead_elbow"
+        ],
+        [
+          "jab",
+          "lead_elbow",
+          "rear_elbow",
+          "knee"
+        ]
+      ],
+      "predicted_combos": [],
+      "exact_match": false,
+      "combo_count_accuracy": 0.0,
+      "combo_boundary_accuracy": 0.0,
+      "sequence_accuracy": 0.0,
+      "combo_wise_accuracy": 0.0
+    },
+    {
+      "video_path": "data\\multiple_combos\\heavy_bag\\15.mov",
+      "true_combos": [
+        [
+          "teep",
+          "jab",
+          "cross"
+        ],
+        [
+          "jab",
+          "cross",
+          "lead_hook",
+          "rear_elbow"
+        ],
+        [
+          "lead_uppercut",
+          "rear_elbow",
+          "roundhouse"
+        ]
+      ],
+      "predicted_combos": [
+        [
+          "knee"
+        ],
+        [
+          "knee"
+        ],
+        [
+          "jab"
+        ],
+        [
+          "cross"
+        ],
+        [
+          "jab"
+        ],
+        [
+          "cross"
+        ],
+        [
+          "jab"
+        ]
+      ],
+      "exact_match": false,
+      "combo_count_accuracy": 0.4285714285714286,
+      "combo_boundary_accuracy": 0.4,
+      "sequence_accuracy": 0.0,
+      "combo_wise_accuracy": 0.0
+    },
+    {
+      "video_path": "data\\multiple_combos\\heavy_bag\\16.mov",
+      "true_combos": [
+        [
+          "jab",
+          "cross",
+          "lead_hook"
+        ],
+        [
+          "jab",
+          "cross",
+          "lead_hook",
+          "lead_hook"
+        ],
+        [
+          "jab",
+          "jab",
+          "cross",
+          "lead_hook"
+        ]
+      ],
+      "predicted_combos": [
+        [
+          "jab",
+          "cross",
+          "lead_hook"
+        ],
+        [
+          "jab",
+          "cross",
+          "lead_hook"
+        ]
+      ],
+      "exact_match": false,
+      "combo_count_accuracy": 0.6666666666666667,
+      "combo_boundary_accuracy": 0.8,
+      "sequence_accuracy": 0.5454545454545454,
+      "combo_wise_accuracy": 0.3333333333333333
+    },
+    {
+      "video_path": "data\\multiple_combos\\heavy_bag\\18.mov",
+      "true_combos": [
+        [
+          "jab",
+          "jab",
+          "cross",
+          "lead_hook"
+        ],
+        [
+          "jab",
+          "lead_hook",
+          "rear_hook"
+        ],
+        [
+          "jab",
+          "cross",
+          "lead_hook",
+          "rear_elbow"
+        ]
+      ],
+      "predicted_combos": [
+        [
+          "jab"
+        ],
+        [
+          "cross"
+        ],
+        [
+          "jab",
+          "cross"
+        ]
+      ],
+      "exact_match": false,
+      "combo_count_accuracy": 1.0,
+      "combo_boundary_accuracy": 0.3333333333333333,
+      "sequence_accuracy": 0.09090909090909091,
+      "combo_wise_accuracy": 0.0
+    },
+    {
+      "video_path": "data\\multiple_combos\\heavy_bag\\19.mov",
+      "true_combos": [
+        [
+          "jab",
+          "cross",
+          "lead_hook",
+          "rear_elbow"
+        ],
+        [
+          "roundhouse",
+          "lead_elbow",
+          "cross"
+        ],
+        [
+          "teep",
+          "cross",
+          "lead_hook"
+        ]
+      ],
+      "predicted_combos": [
+        [
+          "jab",
+          "cross"
+        ],
+        [
+          "roundhouse"
+        ],
+        [
+          "teep"
+        ],
+        [
+          "jab"
+        ]
+      ],
+      "exact_match": false,
+      "combo_count_accuracy": 0.75,
+      "combo_boundary_accuracy": 0.5714285714285715,
+      "sequence_accuracy": 0.2,
+      "combo_wise_accuracy": 0.0
+    }
+  ],
+  "strike_stats": {
+    "jab": {
+      "correct": 15,
+      "total": 62,
+      "predicted": 32
+    },
+    "cross": {
+      "correct": 8,
+      "total": 52,
+      "predicted": 27
+    },
+    "lead_hook": {
+      "correct": 3,
+      "total": 34,
+      "predicted": 5
+    },
+    "lead_uppercut": {
+      "correct": 0,
+      "total": 14,
+      "predicted": 0
+    },
+    "roundhouse": {
+      "correct": 2,
+      "total": 19,
+      "predicted": 13
+    },
+    "lead_elbow": {
+      "correct": 0,
+      "total": 13,
+      "predicted": 0
+    },
+    "teep": {
+      "correct": 2,
+      "total": 11,
+      "predicted": 10
+    },
+    "elbow": {
+      "correct": 0,
+      "total": 1,
+      "predicted": 0
+    },
+    "rear_elbow": {
+      "correct": 0,
+      "total": 22,
+      "predicted": 0
+    },
+    "lead_roundhouse": {
+      "correct": 0,
+      "total": 2,
+      "predicted": 0
+    },
+    "rear_uppercut": {
+      "correct": 0,
+      "total": 1,
+      "predicted": 0
+    },
+    "knee": {
+      "correct": 0,
+      "total": 2,
+      "predicted": 2
+    },
+    "switch_knee": {
+      "correct": 0,
+      "total": 3,
+      "predicted": 0
+    },
+    "rear_hook": {
+      "correct": 0,
+      "total": 2,
+      "predicted": 2
+    },
+    "spinning_elbow": {
+      "correct": 0,
+      "total": 3,
+      "predicted": 0
+    },
+    "low_kick": {
+      "correct": 0,
+      "total": 3,
+      "predicted": 0
+    }
+  }
+}
