@@ -1,0 +1,1677 @@
+{
+  "metrics": {
+    "exact_match_accuracy": 0.14661654135338345,
+    "total_examples": 266,
+    "exact_matches": 39
+  },
+  "results": [
+    {
+      "video_path": "data\\individual_strikes\\a\\1.mov",
+      "true_strike": "cross",
+      "predicted_strike": "jab",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\a\\10.mov",
+      "true_strike": "cross",
+      "predicted_strike": "rear_hook",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\a\\11.mov",
+      "true_strike": "cross",
+      "predicted_strike": "lead_elbow",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\a\\12.mov",
+      "true_strike": "cross",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\a\\13.mov",
+      "true_strike": "cross",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\a\\15.mov",
+      "true_strike": "cross",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\a\\16.mov",
+      "true_strike": "cross",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\a\\17.mov",
+      "true_strike": "cross",
+      "predicted_strike": "jab",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\a\\18.mov",
+      "true_strike": "cross",
+      "predicted_strike": "low_kick",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\a\\19.mov",
+      "true_strike": "cross",
+      "predicted_strike": "rear_hook",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\a\\2.mov",
+      "true_strike": "cross",
+      "predicted_strike": "rear_hook",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\a\\20.mov",
+      "true_strike": "cross",
+      "predicted_strike": "jab",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\a\\22.mov",
+      "true_strike": "cross",
+      "predicted_strike": "jab",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\a\\24.mov",
+      "true_strike": "cross",
+      "predicted_strike": "cross",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\a\\3.mov",
+      "true_strike": "cross",
+      "predicted_strike": "cross",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\a\\5.mov",
+      "true_strike": "cross",
+      "predicted_strike": "jab",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\a\\6.mov",
+      "true_strike": "cross",
+      "predicted_strike": "cross",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\a\\7.mov",
+      "true_strike": "cross",
+      "predicted_strike": "jab",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\a\\8.mov",
+      "true_strike": "cross",
+      "predicted_strike": "jab",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\b\\1.mov",
+      "true_strike": "jab",
+      "predicted_strike": "cross",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\b\\10.mov",
+      "true_strike": "jab",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\b\\11.mov",
+      "true_strike": "jab",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\b\\13.mov",
+      "true_strike": "jab",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\b\\14.mov",
+      "true_strike": "jab",
+      "predicted_strike": "jab",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\b\\15.mov",
+      "true_strike": "jab",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\b\\17.mov",
+      "true_strike": "jab",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\b\\19.mov",
+      "true_strike": "jab",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\b\\2.mov",
+      "true_strike": "jab",
+      "predicted_strike": "jab",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\b\\20.mov",
+      "true_strike": "jab",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\b\\21.mov",
+      "true_strike": "jab",
+      "predicted_strike": "jab",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\b\\22.mov",
+      "true_strike": "jab",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\b\\23.mov",
+      "true_strike": "jab",
+      "predicted_strike": "jab",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\b\\24.mov",
+      "true_strike": "jab",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\b\\3.mov",
+      "true_strike": "jab",
+      "predicted_strike": "jab",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\b\\4.mov",
+      "true_strike": "jab",
+      "predicted_strike": "jab",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\b\\5.mov",
+      "true_strike": "jab",
+      "predicted_strike": "jab",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\b\\6.mov",
+      "true_strike": "jab",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\b\\8.mov",
+      "true_strike": "jab",
+      "predicted_strike": "low_kick",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\c\\10.mov",
+      "true_strike": "knee",
+      "predicted_strike": "knee",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\c\\11.mov",
+      "true_strike": "knee",
+      "predicted_strike": "knee",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\c\\12.mov",
+      "true_strike": "knee",
+      "predicted_strike": "knee",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\c\\13.mov",
+      "true_strike": "knee",
+      "predicted_strike": "knee",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\c\\15.mov",
+      "true_strike": "knee",
+      "predicted_strike": "knee",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\c\\18.mov",
+      "true_strike": "knee",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\c\\19.mov",
+      "true_strike": "knee",
+      "predicted_strike": "knee",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\c\\2.mov",
+      "true_strike": "knee",
+      "predicted_strike": "knee",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\c\\20.mov",
+      "true_strike": "knee",
+      "predicted_strike": "knee",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\c\\21.mov",
+      "true_strike": "knee",
+      "predicted_strike": "knee",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\c\\22.mov",
+      "true_strike": "knee",
+      "predicted_strike": "knee",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\c\\23.mov",
+      "true_strike": "knee",
+      "predicted_strike": "knee",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\c\\24.mov",
+      "true_strike": "knee",
+      "predicted_strike": "knee",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\c\\3.mov",
+      "true_strike": "knee",
+      "predicted_strike": "knee",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\c\\5.mov",
+      "true_strike": "knee",
+      "predicted_strike": "knee",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\c\\6.mov",
+      "true_strike": "knee",
+      "predicted_strike": "knee",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\c\\7.mov",
+      "true_strike": "knee",
+      "predicted_strike": "knee",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\c\\8.mov",
+      "true_strike": "knee",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\c\\9.mov",
+      "true_strike": "knee",
+      "predicted_strike": "knee",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\d\\1.mov",
+      "true_strike": "lead_elbow",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\d\\10.mov",
+      "true_strike": "lead_elbow",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\d\\11.mov",
+      "true_strike": "lead_elbow",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\d\\12.mov",
+      "true_strike": "lead_elbow",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\d\\13.mov",
+      "true_strike": "lead_elbow",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\d\\14.mov",
+      "true_strike": "lead_elbow",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\d\\15.mov",
+      "true_strike": "lead_elbow",
+      "predicted_strike": "low_kick",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\d\\16.mov",
+      "true_strike": "lead_elbow",
+      "predicted_strike": "cross",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\d\\17.mov",
+      "true_strike": "lead_elbow",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\d\\19.mov",
+      "true_strike": "lead_elbow",
+      "predicted_strike": "jab",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\d\\22.mov",
+      "true_strike": "lead_elbow",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\d\\23.mov",
+      "true_strike": "lead_elbow",
+      "predicted_strike": "switch_kick",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\d\\24.mov",
+      "true_strike": "lead_elbow",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\d\\3.mov",
+      "true_strike": "lead_elbow",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\d\\4.mov",
+      "true_strike": "lead_elbow",
+      "predicted_strike": "low_kick",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\d\\6.mov",
+      "true_strike": "lead_elbow",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\d\\7.mov",
+      "true_strike": "lead_elbow",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\d\\8.mov",
+      "true_strike": "lead_elbow",
+      "predicted_strike": "jab",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\d\\9.mov",
+      "true_strike": "lead_elbow",
+      "predicted_strike": "rear_hook",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\e\\10.mov",
+      "true_strike": "lead_hook",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\e\\11.mov",
+      "true_strike": "lead_hook",
+      "predicted_strike": "jab",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\e\\12.mov",
+      "true_strike": "lead_hook",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\e\\13.mov",
+      "true_strike": "lead_hook",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\e\\15.mov",
+      "true_strike": "lead_hook",
+      "predicted_strike": "rear_elbow",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\e\\17.mov",
+      "true_strike": "lead_hook",
+      "predicted_strike": "lead_hook",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\e\\19.mov",
+      "true_strike": "lead_hook",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\e\\2.mov",
+      "true_strike": "lead_hook",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\e\\20.mov",
+      "true_strike": "lead_hook",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\e\\22.mov",
+      "true_strike": "lead_hook",
+      "predicted_strike": "low_kick",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\e\\23.mov",
+      "true_strike": "lead_hook",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\e\\24.mov",
+      "true_strike": "lead_hook",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\e\\3.mov",
+      "true_strike": "lead_hook",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\e\\4.mov",
+      "true_strike": "lead_hook",
+      "predicted_strike": "jab",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\e\\5.mov",
+      "true_strike": "lead_hook",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\e\\6.mov",
+      "true_strike": "lead_hook",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\e\\7.mov",
+      "true_strike": "lead_hook",
+      "predicted_strike": "lead_hook",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\e\\8.mov",
+      "true_strike": "lead_hook",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\e\\9.mov",
+      "true_strike": "lead_hook",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\f\\1.mov",
+      "true_strike": "lead_uppercut",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\f\\10.mov",
+      "true_strike": "lead_uppercut",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\f\\11.mov",
+      "true_strike": "lead_uppercut",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\f\\12.mov",
+      "true_strike": "lead_uppercut",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\f\\13.mov",
+      "true_strike": "lead_uppercut",
+      "predicted_strike": "cross",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\f\\14.mov",
+      "true_strike": "lead_uppercut",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\f\\15.mov",
+      "true_strike": "lead_uppercut",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\f\\17.mov",
+      "true_strike": "lead_uppercut",
+      "predicted_strike": "rear_elbow",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\f\\19.mov",
+      "true_strike": "lead_uppercut",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\f\\20.mov",
+      "true_strike": "lead_uppercut",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\f\\21.mov",
+      "true_strike": "lead_uppercut",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\f\\22.mov",
+      "true_strike": "lead_uppercut",
+      "predicted_strike": "switch_knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\f\\23.mov",
+      "true_strike": "lead_uppercut",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\f\\24.mov",
+      "true_strike": "lead_uppercut",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\f\\3.mov",
+      "true_strike": "lead_uppercut",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\f\\5.mov",
+      "true_strike": "lead_uppercut",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\f\\6.mov",
+      "true_strike": "lead_uppercut",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\f\\7.mov",
+      "true_strike": "lead_uppercut",
+      "predicted_strike": "jab",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\f\\8.mov",
+      "true_strike": "lead_uppercut",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\g\\1.mov",
+      "true_strike": "low_kick",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\g\\11.mov",
+      "true_strike": "low_kick",
+      "predicted_strike": "rear_hook",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\g\\12.mov",
+      "true_strike": "low_kick",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\g\\13.mov",
+      "true_strike": "low_kick",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\g\\14.mov",
+      "true_strike": "low_kick",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\g\\15.mov",
+      "true_strike": "low_kick",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\g\\17.mov",
+      "true_strike": "low_kick",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\g\\18.mov",
+      "true_strike": "low_kick",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\g\\19.mov",
+      "true_strike": "low_kick",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\g\\2.mov",
+      "true_strike": "low_kick",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\g\\21.mov",
+      "true_strike": "low_kick",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\g\\22.mov",
+      "true_strike": "low_kick",
+      "predicted_strike": "low_kick",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\g\\23.mov",
+      "true_strike": "low_kick",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\g\\24.mov",
+      "true_strike": "low_kick",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\g\\3.mov",
+      "true_strike": "low_kick",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\g\\4.mov",
+      "true_strike": "low_kick",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\g\\5.mov",
+      "true_strike": "low_kick",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\g\\6.mov",
+      "true_strike": "low_kick",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\g\\9.mov",
+      "true_strike": "low_kick",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\h\\10.mov",
+      "true_strike": "rear_elbow",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\h\\11.mov",
+      "true_strike": "rear_elbow",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\h\\12.mov",
+      "true_strike": "rear_elbow",
+      "predicted_strike": "low_kick",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\h\\13.mov",
+      "true_strike": "rear_elbow",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\h\\16.mov",
+      "true_strike": "rear_elbow",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\h\\17.mov",
+      "true_strike": "rear_elbow",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\h\\18.mov",
+      "true_strike": "rear_elbow",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\h\\19.mov",
+      "true_strike": "rear_elbow",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\h\\2.mov",
+      "true_strike": "rear_elbow",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\h\\20.mov",
+      "true_strike": "rear_elbow",
+      "predicted_strike": "cross",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\h\\21.mov",
+      "true_strike": "rear_elbow",
+      "predicted_strike": "jab",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\h\\23.mov",
+      "true_strike": "rear_elbow",
+      "predicted_strike": "rear_elbow",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\h\\24.mov",
+      "true_strike": "rear_elbow",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\h\\3.mov",
+      "true_strike": "rear_elbow",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\h\\4.mov",
+      "true_strike": "rear_elbow",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\h\\5.mov",
+      "true_strike": "rear_elbow",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\h\\6.mov",
+      "true_strike": "rear_elbow",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\h\\7.mov",
+      "true_strike": "rear_elbow",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\h\\8.mov",
+      "true_strike": "rear_elbow",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\i\\1.mov",
+      "true_strike": "rear_hook",
+      "predicted_strike": "low_kick",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\i\\10.mov",
+      "true_strike": "rear_hook",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\i\\12.mov",
+      "true_strike": "rear_hook",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\i\\13.mov",
+      "true_strike": "rear_hook",
+      "predicted_strike": "jab",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\i\\14.mov",
+      "true_strike": "rear_hook",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\i\\17.mov",
+      "true_strike": "rear_hook",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\i\\18.mov",
+      "true_strike": "rear_hook",
+      "predicted_strike": "jab",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\i\\2.mov",
+      "true_strike": "rear_hook",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\i\\20.mov",
+      "true_strike": "rear_hook",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\i\\21.mov",
+      "true_strike": "rear_hook",
+      "predicted_strike": "jab",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\i\\22.mov",
+      "true_strike": "rear_hook",
+      "predicted_strike": "cross",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\i\\23.mov",
+      "true_strike": "rear_hook",
+      "predicted_strike": "jab",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\i\\24.mov",
+      "true_strike": "rear_hook",
+      "predicted_strike": "jab",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\i\\3.mov",
+      "true_strike": "rear_hook",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\i\\4.mov",
+      "true_strike": "rear_hook",
+      "predicted_strike": "jab",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\i\\6.mov",
+      "true_strike": "rear_hook",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\i\\7.mov",
+      "true_strike": "rear_hook",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\i\\8.mov",
+      "true_strike": "rear_hook",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\i\\9.mov",
+      "true_strike": "rear_hook",
+      "predicted_strike": "low_kick",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\j\\10.mov",
+      "true_strike": "rear_uppercut",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\j\\11.mov",
+      "true_strike": "rear_uppercut",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\j\\12.mov",
+      "true_strike": "rear_uppercut",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\j\\15.mov",
+      "true_strike": "rear_uppercut",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\j\\16.mov",
+      "true_strike": "rear_uppercut",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\j\\17.mov",
+      "true_strike": "rear_uppercut",
+      "predicted_strike": "jab",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\j\\18.mov",
+      "true_strike": "rear_uppercut",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\j\\19.mov",
+      "true_strike": "rear_uppercut",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\j\\2.mov",
+      "true_strike": "rear_uppercut",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\j\\21.mov",
+      "true_strike": "rear_uppercut",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\j\\22.mov",
+      "true_strike": "rear_uppercut",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\j\\23.mov",
+      "true_strike": "rear_uppercut",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\j\\24.mov",
+      "true_strike": "rear_uppercut",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\j\\3.mov",
+      "true_strike": "rear_uppercut",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\j\\4.mov",
+      "true_strike": "rear_uppercut",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\j\\5.mov",
+      "true_strike": "rear_uppercut",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\j\\6.mov",
+      "true_strike": "rear_uppercut",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\j\\8.mov",
+      "true_strike": "rear_uppercut",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\j\\9.mov",
+      "true_strike": "rear_uppercut",
+      "predicted_strike": "rear_elbow",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\k\\10.mov",
+      "true_strike": "roundhouse",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\k\\12.mov",
+      "true_strike": "roundhouse",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\k\\14.mov",
+      "true_strike": "roundhouse",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\k\\15.mov",
+      "true_strike": "roundhouse",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\k\\16.mov",
+      "true_strike": "roundhouse",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\k\\17.mov",
+      "true_strike": "roundhouse",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\k\\18.mov",
+      "true_strike": "roundhouse",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\k\\19.mov",
+      "true_strike": "roundhouse",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\k\\2.mov",
+      "true_strike": "roundhouse",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\k\\21.mov",
+      "true_strike": "roundhouse",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\k\\22.mov",
+      "true_strike": "roundhouse",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\k\\23.mov",
+      "true_strike": "roundhouse",
+      "predicted_strike": "roundhouse",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\k\\24.mov",
+      "true_strike": "roundhouse",
+      "predicted_strike": "roundhouse",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\k\\3.mov",
+      "true_strike": "roundhouse",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\k\\5.mov",
+      "true_strike": "roundhouse",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\k\\6.mov",
+      "true_strike": "roundhouse",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\k\\7.mov",
+      "true_strike": "roundhouse",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\k\\8.mov",
+      "true_strike": "roundhouse",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\k\\9.mov",
+      "true_strike": "roundhouse",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\l\\1.mov",
+      "true_strike": "switch_kick",
+      "predicted_strike": "low_kick",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\l\\10.mov",
+      "true_strike": "switch_kick",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\l\\11.mov",
+      "true_strike": "switch_kick",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\l\\12.mov",
+      "true_strike": "switch_kick",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\l\\15.mov",
+      "true_strike": "switch_kick",
+      "predicted_strike": "low_kick",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\l\\16.mov",
+      "true_strike": "switch_kick",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\l\\17.mov",
+      "true_strike": "switch_kick",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\l\\19.mov",
+      "true_strike": "switch_kick",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\l\\20.mov",
+      "true_strike": "switch_kick",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\l\\21.mov",
+      "true_strike": "switch_kick",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\l\\22.mov",
+      "true_strike": "switch_kick",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\l\\23.mov",
+      "true_strike": "switch_kick",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\l\\24.mov",
+      "true_strike": "switch_kick",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\l\\3.mov",
+      "true_strike": "switch_kick",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\l\\4.mov",
+      "true_strike": "switch_kick",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\l\\6.mov",
+      "true_strike": "switch_kick",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\l\\7.mov",
+      "true_strike": "switch_kick",
+      "predicted_strike": "low_kick",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\l\\8.mov",
+      "true_strike": "switch_kick",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\l\\9.mov",
+      "true_strike": "switch_kick",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\m\\1.mov",
+      "true_strike": "switch_knee",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\m\\10.mov",
+      "true_strike": "switch_knee",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\m\\13.mov",
+      "true_strike": "switch_knee",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\m\\14.mov",
+      "true_strike": "switch_knee",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\m\\15.mov",
+      "true_strike": "switch_knee",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\m\\16.mov",
+      "true_strike": "switch_knee",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\m\\17.mov",
+      "true_strike": "switch_knee",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\m\\18.mov",
+      "true_strike": "switch_knee",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\m\\2.mov",
+      "true_strike": "switch_knee",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\m\\21.mov",
+      "true_strike": "switch_knee",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\m\\22.mov",
+      "true_strike": "switch_knee",
+      "predicted_strike": "teep",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\m\\23.mov",
+      "true_strike": "switch_knee",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\m\\24.mov",
+      "true_strike": "switch_knee",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\m\\3.mov",
+      "true_strike": "switch_knee",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\m\\4.mov",
+      "true_strike": "switch_knee",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\m\\5.mov",
+      "true_strike": "switch_knee",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\m\\7.mov",
+      "true_strike": "switch_knee",
+      "predicted_strike": "low_kick",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\m\\8.mov",
+      "true_strike": "switch_knee",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\m\\9.mov",
+      "true_strike": "switch_knee",
+      "predicted_strike": "jab",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\n\\10.mov",
+      "true_strike": "teep",
+      "predicted_strike": "teep",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\n\\11.mov",
+      "true_strike": "teep",
+      "predicted_strike": "teep",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\n\\12.mov",
+      "true_strike": "teep",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\n\\14.mov",
+      "true_strike": "teep",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\n\\15.mov",
+      "true_strike": "teep",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\n\\16.mov",
+      "true_strike": "teep",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\n\\17.mov",
+      "true_strike": "teep",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\n\\18.mov",
+      "true_strike": "teep",
+      "predicted_strike": "teep",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\n\\19.mov",
+      "true_strike": "teep",
+      "predicted_strike": "teep",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\n\\2.mov",
+      "true_strike": "teep",
+      "predicted_strike": "teep",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\n\\20.mov",
+      "true_strike": "teep",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\n\\21.mov",
+      "true_strike": "teep",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\n\\22.mov",
+      "true_strike": "teep",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\n\\23.mov",
+      "true_strike": "teep",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\n\\5.mov",
+      "true_strike": "teep",
+      "predicted_strike": "knee",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\n\\6.mov",
+      "true_strike": "teep",
+      "predicted_strike": "teep",
+      "exact_match": true
+    },
+    {
+      "video_path": "data\\individual_strikes\\n\\7.mov",
+      "true_strike": "teep",
+      "predicted_strike": "low_kick",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\n\\8.mov",
+      "true_strike": "teep",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    },
+    {
+      "video_path": "data\\individual_strikes\\n\\9.mov",
+      "true_strike": "teep",
+      "predicted_strike": "roundhouse",
+      "exact_match": false
+    }
+  ],
+  "strike_stats": {
+    "cross": {
+      "correct": 3,
+      "total": 19,
+      "predicted": 8
+    },
+    "jab": {
+      "correct": 7,
+      "total": 19,
+      "predicted": 28
+    },
+    "rear_hook": {
+      "correct": 0,
+      "total": 19,
+      "predicted": 5
+    },
+    "lead_elbow": {
+      "correct": 0,
+      "total": 19,
+      "predicted": 1
+    },
+    "knee": {
+      "correct": 17,
+      "total": 19,
+      "predicted": 73
+    },
+    "teep": {
+      "correct": 6,
+      "total": 19,
+      "predicted": 65
+    },
+    "roundhouse": {
+      "correct": 2,
+      "total": 19,
+      "predicted": 64
+    },
+    "low_kick": {
+      "correct": 1,
+      "total": 19,
+      "predicted": 14
+    },
+    "switch_kick": {
+      "correct": 0,
+      "total": 19,
+      "predicted": 1
+    },
+    "lead_hook": {
+      "correct": 2,
+      "total": 19,
+      "predicted": 2
+    },
+    "rear_elbow": {
+      "correct": 1,
+      "total": 19,
+      "predicted": 4
+    },
+    "lead_uppercut": {
+      "correct": 0,
+      "total": 19,
+      "predicted": 0
+    },
+    "switch_knee": {
+      "correct": 0,
+      "total": 19,
+      "predicted": 1
+    },
+    "rear_uppercut": {
+      "correct": 0,
+      "total": 19,
+      "predicted": 0
+    }
+  }
+}
