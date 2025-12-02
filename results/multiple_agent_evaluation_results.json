@@ -1,10 +1,10 @@
 {
   "metrics": {
     "exact_match_accuracy": 0.0,
-    "average_sequence_accuracy": 0.12232160200910201,
-    "average_combo_count_accuracy": 0.6692460317460318,
-    "average_combo_boundary_accuracy": 0.48174603174603176,
-    "average_combo_wise_accuracy": 0.03263888888888889,
+    "average_sequence_accuracy": 0.13693592287342288,
+    "average_combo_count_accuracy": 0.6472222222222223,
+    "average_combo_boundary_accuracy": 0.502281746031746,
+    "average_combo_wise_accuracy": 0.05555555555555555,
     "total_examples": 24,
     "exact_matches": 0
   },
@@ -41,19 +41,14 @@
           "jab"
         ],
         [
-          "cross"
-        ],
-        [
-          "jab"
-        ],
-        [
-          "cross"
+          "jab",
+          "roundhouse"
         ]
       ],
       "exact_match": false,
-      "combo_count_accuracy": 0.8,
-      "combo_boundary_accuracy": 0.6666666666666665,
-      "sequence_accuracy": 0.25,
+      "combo_count_accuracy": 0.75,
+      "combo_boundary_accuracy": 0.5714285714285715,
+      "sequence_accuracy": 0.16666666666666666,
       "combo_wise_accuracy": 0.25
     },
     {
@@ -81,17 +76,12 @@
           "jab",
           "cross",
           "roundhouse"
-        ],
-        [
-          "jab",
-          "cross",
-          "teep"
         ]
       ],
       "exact_match": false,
-      "combo_count_accuracy": 0.6666666666666667,
-      "combo_boundary_accuracy": 0.8,
-      "sequence_accuracy": 0.2,
+      "combo_count_accuracy": 0.33333333333333337,
+      "combo_boundary_accuracy": 0.5,
+      "sequence_accuracy": 0.0,
       "combo_wise_accuracy": 0.0
     },
     {
@@ -111,26 +101,21 @@
           "jab",
           "cross",
           "teep",
-          "elbow"
+          "spinning_elbow"
         ]
       ],
       "predicted_combos": [
         [
-          "teep"
-        ],
-        [
           "roundhouse"
         ],
         [
-          "jab",
-          "cross",
           "roundhouse"
         ]
       ],
       "exact_match": false,
-      "combo_count_accuracy": 1.0,
-      "combo_boundary_accuracy": 0.6666666666666666,
-      "sequence_accuracy": 0.3,
+      "combo_count_accuracy": 0.6666666666666667,
+      "combo_boundary_accuracy": 0.4,
+      "sequence_accuracy": 0.1,
       "combo_wise_accuracy": 0.0
     },
     {
@@ -153,6 +138,10 @@
       "predicted_combos": [
         [
           "jab",
+          "cross",
+          "teep"
+        ],
+        [
           "teep"
         ],
         [
@@ -160,16 +149,13 @@
           "cross"
         ],
         [
-          "jab"
-        ],
-        [
           "teep"
         ]
       ],
       "exact_match": false,
       "combo_count_accuracy": 0.75,
-      "combo_boundary_accuracy": 0.28571428571428575,
-      "sequence_accuracy": 0.14285714285714285,
+      "combo_boundary_accuracy": 0.8571428571428571,
+      "sequence_accuracy": 0.2857142857142857,
       "combo_wise_accuracy": 0.0
     },
     {
@@ -195,10 +181,13 @@
       ],
       "predicted_combos": [
         [
-          "jab"
+          "jab",
+          "cross"
         ],
         [
-          "cross"
+          "jab",
+          "cross",
+          "roundhouse"
         ]
       ],
       "exact_match": false,
@@ -232,11 +221,28 @@
           "rear_elbow"
         ]
       ],
-      "predicted_combos": [],
+      "predicted_combos": [
+        [
+          "jab",
+          "roundhouse"
+        ],
+        [
+          "jab",
+          "roundhouse"
+        ],
+        [
+          "jab",
+          "roundhouse"
+        ],
+        [
+          "jab",
+          "roundhouse"
+        ]
+      ],
       "exact_match": false,
-      "combo_count_accuracy": 0.0,
-      "combo_boundary_accuracy": 0.0,
-      "sequence_accuracy": 0.0,
+      "combo_count_accuracy": 1.0,
+      "combo_boundary_accuracy": 0.25,
+      "sequence_accuracy": 0.07692307692307693,
       "combo_wise_accuracy": 0.0
     },
     {
@@ -273,16 +279,14 @@
         ],
         [
           "jab",
-          "cross",
-          "roundhouse"
+          "cross"
         ],
         [
           "teep"
         ],
         [
           "jab",
-          "cross",
-          "roundhouse"
+          "cross"
         ]
       ],
       "exact_match": false,
@@ -312,14 +316,10 @@
           "roundhouse"
         ]
       ],
-      "predicted_combos": [
-        [
-          "cross"
-        ]
-      ],
+      "predicted_combos": [],
       "exact_match": false,
-      "combo_count_accuracy": 0.33333333333333337,
-      "combo_boundary_accuracy": 0.5,
+      "combo_count_accuracy": 0.0,
+      "combo_boundary_accuracy": 0.0,
       "sequence_accuracy": 0.0,
       "combo_wise_accuracy": 0.0
     },
@@ -346,19 +346,12 @@
       "predicted_combos": [
         [
           "roundhouse"
-        ],
-        [
-          "jab",
-          "cross"
-        ],
-        [
-          "roundhouse"
         ]
       ],
       "exact_match": false,
-      "combo_count_accuracy": 1.0,
-      "combo_boundary_accuracy": 0.3333333333333333,
-      "sequence_accuracy": 0.1,
+      "combo_count_accuracy": 0.33333333333333337,
+      "combo_boundary_accuracy": 0.5,
+      "sequence_accuracy": 0.0,
       "combo_wise_accuracy": 0.0
     },
     {
@@ -414,21 +407,20 @@
       "predicted_combos": [
         [
           "jab",
-          "cross",
-          "lead_hook",
-          "rear_hook"
+          "cross"
+        ],
+        [
+          "jab",
+          "cross"
         ],
         [
           "teep"
-        ],
-        [
-          "roundhouse"
         ]
       ],
       "exact_match": false,
       "combo_count_accuracy": 1.0,
       "combo_boundary_accuracy": 0.3333333333333333,
-      "sequence_accuracy": 0.3333333333333333,
+      "sequence_accuracy": 0.2222222222222222,
       "combo_wise_accuracy": 0.0
     },
     {
@@ -455,13 +447,19 @@
       ],
       "predicted_combos": [
         [
-          "jab",
+          "jab"
+        ],
+        [
           "cross"
+        ],
+        [
+          "jab",
+          "roundhouse"
         ]
       ],
       "exact_match": false,
-      "combo_count_accuracy": 0.33333333333333337,
-      "combo_boundary_accuracy": 0.5,
+      "combo_count_accuracy": 1.0,
+      "combo_boundary_accuracy": 0.3333333333333333,
       "sequence_accuracy": 0.08333333333333333,
       "combo_wise_accuracy": 0.0
     },
@@ -514,15 +512,15 @@
           "cross"
         ],
         [
-          "lead_hook",
-          "rear_hook"
+          "jab",
+          "cross"
         ]
       ],
       "exact_match": false,
       "combo_count_accuracy": 1.0,
       "combo_boundary_accuracy": 0.5,
       "sequence_accuracy": 0.16666666666666666,
-      "combo_wise_accuracy": 0.0
+      "combo_wise_accuracy": 0.5
     },
     {
       "video_path": "data\\multiple_combos\\heavy_bag\\7.mov",
@@ -547,11 +545,14 @@
         ],
         [
           "roundhouse"
+        ],
+        [
+          "roundhouse"
         ]
       ],
       "exact_match": false,
-      "combo_count_accuracy": 0.6666666666666667,
-      "combo_boundary_accuracy": 0.8,
+      "combo_count_accuracy": 0.5,
+      "combo_boundary_accuracy": 0.6666666666666666,
       "sequence_accuracy": 0.0,
       "combo_wise_accuracy": 0.0
     },
@@ -586,14 +587,14 @@
           "jab"
         ],
         [
-          "cross"
+          "jab"
         ]
       ],
       "exact_match": false,
       "combo_count_accuracy": 0.75,
       "combo_boundary_accuracy": 0.5714285714285715,
-      "sequence_accuracy": 0.09090909090909091,
-      "combo_wise_accuracy": 0.0
+      "sequence_accuracy": 0.18181818181818182,
+      "combo_wise_accuracy": 0.25
     },
     {
       "video_path": "data\\multiple_combos\\heavy_bag\\10.mov",
@@ -624,26 +625,15 @@
       ],
       "predicted_combos": [
         [
-          "jab"
-        ],
-        [
-          "cross"
-        ],
-        [
-          "roundhouse"
-        ],
-        [
-          "roundhouse"
-        ],
-        [
+          "jab",
           "cross"
         ]
       ],
       "exact_match": false,
-      "combo_count_accuracy": 1.0,
-      "combo_boundary_accuracy": 0.4000000000000001,
+      "combo_count_accuracy": 0.19999999999999996,
+      "combo_boundary_accuracy": 0.33333333333333337,
       "sequence_accuracy": 0.07692307692307693,
-      "combo_wise_accuracy": 0.2
+      "combo_wise_accuracy": 0.0
     },
     {
       "video_path": "data\\multiple_combos\\heavy_bag\\11.mov",
@@ -673,12 +663,33 @@
       "predicted_combos": [
         [
           "jab"
+        ],
+        [
+          "cross"
+        ],
+        [
+          "lead_hook"
+        ],
+        [
+          "rear_hook"
+        ],
+        [
+          "lead_uppercut"
+        ],
+        [
+          "rear_uppercut"
+        ],
+        [
+          "teep"
+        ],
+        [
+          "roundhouse"
         ]
       ],
       "exact_match": false,
-      "combo_count_accuracy": 0.25,
-      "combo_boundary_accuracy": 0.4,
-      "sequence_accuracy": 0.07692307692307693,
+      "combo_count_accuracy": 0.5,
+      "combo_boundary_accuracy": 0.5,
+      "sequence_accuracy": 0.15384615384615385,
       "combo_wise_accuracy": 0.0
     },
     {
@@ -733,11 +744,16 @@
           "knee"
         ]
       ],
-      "predicted_combos": [],
+      "predicted_combos": [
+        [
+          "jab",
+          "cross"
+        ]
+      ],
       "exact_match": false,
-      "combo_count_accuracy": 0.0,
-      "combo_boundary_accuracy": 0.0,
-      "sequence_accuracy": 0.0,
+      "combo_count_accuracy": 0.33333333333333337,
+      "combo_boundary_accuracy": 0.5,
+      "sequence_accuracy": 0.16666666666666666,
       "combo_wise_accuracy": 0.0
     },
     {
@@ -765,28 +781,22 @@
           "knee"
         ],
         [
-          "knee"
-        ],
-        [
-          "jab"
-        ],
-        [
+          "jab",
           "cross"
         ],
         [
-          "jab"
-        ],
-        [
+          "jab",
           "cross"
         ],
         [
-          "jab"
+          "jab",
+          "cross"
         ]
       ],
       "exact_match": false,
-      "combo_count_accuracy": 0.4285714285714286,
-      "combo_boundary_accuracy": 0.4,
-      "sequence_accuracy": 0.0,
+      "combo_count_accuracy": 0.75,
+      "combo_boundary_accuracy": 0.5714285714285715,
+      "sequence_accuracy": 0.4,
       "combo_wise_accuracy": 0.0
     },
     {
@@ -851,9 +861,11 @@
       ],
       "predicted_combos": [
         [
-          "jab"
+          "jab",
+          "cross"
         ],
         [
+          "jab",
           "cross"
         ],
         [
@@ -863,8 +875,8 @@
       ],
       "exact_match": false,
       "combo_count_accuracy": 1.0,
-      "combo_boundary_accuracy": 0.3333333333333333,
-      "sequence_accuracy": 0.09090909090909091,
+      "combo_boundary_accuracy": 0.6666666666666666,
+      "sequence_accuracy": 0.18181818181818182,
       "combo_wise_accuracy": 0.0
     },
     {
@@ -891,49 +903,40 @@
         [
           "jab",
           "cross"
-        ],
-        [
-          "roundhouse"
-        ],
-        [
-          "teep"
-        ],
-        [
-          "jab"
         ]
       ],
       "exact_match": false,
-      "combo_count_accuracy": 0.75,
-      "combo_boundary_accuracy": 0.5714285714285715,
+      "combo_count_accuracy": 0.33333333333333337,
+      "combo_boundary_accuracy": 0.5,
       "sequence_accuracy": 0.2,
       "combo_wise_accuracy": 0.0
     }
   ],
   "strike_stats": {
     "jab": {
-      "correct": 15,
+      "correct": 21,
       "total": 62,
-      "predicted": 32
+      "predicted": 38
     },
     "cross": {
-      "correct": 8,
+      "correct": 9,
       "total": 52,
       "predicted": 27
     },
     "lead_hook": {
-      "correct": 3,
+      "correct": 2,
       "total": 34,
-      "predicted": 5
+      "predicted": 4
     },
     "lead_uppercut": {
       "correct": 0,
       "total": 14,
-      "predicted": 0
+      "predicted": 1
     },
     "roundhouse": {
-      "correct": 2,
+      "correct": 1,
       "total": 19,
-      "predicted": 13
+      "predicted": 15
     },
     "lead_elbow": {
       "correct": 0,
@@ -941,13 +944,13 @@
       "predicted": 0
     },
     "teep": {
-      "correct": 2,
+      "correct": 1,
       "total": 11,
-      "predicted": 10
+      "predicted": 9
     },
-    "elbow": {
+    "spinning_elbow": {
       "correct": 0,
-      "total": 1,
+      "total": 4,
       "predicted": 0
     },
     "rear_elbow": {
@@ -963,24 +966,14 @@
     "rear_uppercut": {
       "correct": 0,
       "total": 1,
-      "predicted": 0
+      "predicted": 1
     },
     "knee": {
       "correct": 0,
       "total": 2,
-      "predicted": 2
+      "predicted": 1
     },
     "switch_knee": {
-      "correct": 0,
-      "total": 3,
-      "predicted": 0
-    },
-    "rear_hook": {
-      "correct": 0,
-      "total": 2,
-      "predicted": 2
-    },
-    "spinning_elbow": {
       "correct": 0,
       "total": 3,
       "predicted": 0
@@ -989,6 +982,11 @@
       "correct": 0,
       "total": 3,
       "predicted": 0
+    },
+    "rear_hook": {
+      "correct": 0,
+      "total": 2,
+      "predicted": 1
     }
   }
 }

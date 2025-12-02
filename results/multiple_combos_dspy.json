@@ -124,7 +124,7 @@
           "jab",
           "cross",
           "teep",
-          "elbow"
+          "spinning_elbow"
         ]
       ],
       "predicted_combos": [
@@ -1190,9 +1190,9 @@
       "total": 11,
       "predicted": 5
     },
-    "elbow": {
+    "spinning_elbow": {
       "correct": 0,
-      "total": 1,
+      "total": 4,
       "predicted": 0
     },
     "rear_elbow": {
@@ -1221,11 +1221,6 @@
       "predicted": 0
     },
     "switch_knee": {
-      "correct": 0,
-      "total": 3,
-      "predicted": 0
-    },
-    "spinning_elbow": {
       "correct": 0,
       "total": 3,
       "predicted": 0
