@@ -61,7 +61,7 @@ Each `true_labels.json` file contains a mapping of video IDs to strike sequences
    jupyter notebook
    ```
 
-2. Open `muay_thai_classifier.ipynb`
+2. Open `{notebook}.ipynb`
 
 3. Run all cells sequentially. The notebook is organized into sections:
    - **Section 1**: Setup and configuration
